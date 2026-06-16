@@ -1,2 +1,25 @@
-# sports-fitness-marketing-campaign-planner-template-pack
-Professional template for Sports Fitness professionals.
+# Sports Fitness Marketing Campaign Planner Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00wcN54eP4sc1de8nGd0t32)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00wcN54eP4sc1de8nGd0t32)
+
